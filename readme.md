@@ -11,3 +11,5 @@ Thist file includes:
  - Scripts to update and re/configure the coresponding servers and services
  - playground for testing ansible and more..
 
+## About the Editor:
+Name: Florian Hofstaedter
